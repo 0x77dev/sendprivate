@@ -2,6 +2,8 @@ import Vue from 'vue'
 import App from './App.vue'
 import './registerServiceWorker'
 import router from './router'
+import './assets/tailwind.css'
+import openpgp from 'openpgp'
 
 Vue.config.productionTip = false
 
